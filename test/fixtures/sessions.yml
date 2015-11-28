@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-11-27
+  air_temp: 1.5
+  target: MyString
+  light_exp_dur: 1
+  light_exp_count: 1
+  iso: 1
+  ambient_light_notes: MyString
+  notes: MyString
+  dark_frame_count: 1
+  bias_frame_count: 1
+  flat_exp_dur: 1
+  flat_exp_count: 1
+  sensor_temp: 1.5
+  ota_temp: 1.5
+  guided: false
+  min_fwhm: 1.5
+  max_fwhm: 1.5
+  avg_fwhm: 1.5
+
+two:
+  date: 2015-11-27
+  air_temp: 1.5
+  target: MyString
+  light_exp_dur: 1
+  light_exp_count: 1
+  iso: 1
+  ambient_light_notes: MyString
+  notes: MyString
+  dark_frame_count: 1
+  bias_frame_count: 1
+  flat_exp_dur: 1
+  flat_exp_count: 1
+  sensor_temp: 1.5
+  ota_temp: 1.5
+  guided: false
+  min_fwhm: 1.5
+  max_fwhm: 1.5
+  avg_fwhm: 1.5
